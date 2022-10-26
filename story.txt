@@ -1,3 +1,12 @@
 A little red riding hood
 Sleeps away inside
 happily ever after
+
+Pipelines are presented from a small house to complex industries such as petrochemical. 
+Pipelines are vulnerable to both external and internal aspect such as cracking, leakage, 
+blockage, deformation, etc. which make it lose its functionality. Maintaining pipeline in 
+working condition as natural gas, crude oil, water, and sewer pipelines are a critical aspect 
+because it has been an indispensable part of life. It requires frequent and proactive monitoring 
+and inspection system to make it long term running.
+
+LAalalallalalal
